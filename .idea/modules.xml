@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/lab-10-core/lab-10-core.iml" filepath="$PROJECT_DIR$/lab-10-core/lab-10-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-11-core/lab-11-core.iml" filepath="$PROJECT_DIR$/lab-11-core/lab-11-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-12-core/lab-12-core.iml" filepath="$PROJECT_DIR$/lab-12-core/lab-12-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-13-core/lab-13-core.iml" filepath="$PROJECT_DIR$/lab-13-core/lab-13-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-14-core/lab-14-core.iml" filepath="$PROJECT_DIR$/lab-14-core/lab-14-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-3-core/lab-3-core.iml" filepath="$PROJECT_DIR$/lab-3-core/lab-3-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-4-core/lab-4-core.iml" filepath="$PROJECT_DIR$/lab-4-core/lab-4-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-5-core/lab-5-core.iml" filepath="$PROJECT_DIR$/lab-5-core/lab-5-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-6-core/lab-6-core.iml" filepath="$PROJECT_DIR$/lab-6-core/lab-6-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-7-core/lab-7-core.iml" filepath="$PROJECT_DIR$/lab-7-core/lab-7-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-8-core/lab-8-core.iml" filepath="$PROJECT_DIR$/lab-8-core/lab-8-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-9-core/lab-9-core.iml" filepath="$PROJECT_DIR$/lab-9-core/lab-9-core.iml" />
+    </modules>
+  </component>
+</project>
